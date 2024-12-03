@@ -1,0 +1,117 @@
+[
+    {
+      "id": 1,
+      "name": "Swiss Sports Watch Black Steel",
+      "category": "accessories",
+      "description": "Timeless design with a genuine leather strap, perfect for any occasion.",
+      "price": 79.99,
+      "oldPrice": 99.99,
+      "image": "https://images.unsplash.com/photo-1607850478432-a80d4ff5aa41?q=80&w=3774&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "white",
+      "rating": 4.5,
+      "author":"admin"
+    },
+    {
+      "id": 2,
+      "name": "Sweater Green White",
+      "category": "dress",
+      "description": "Comfortable and warm, perfect for everyday wear.",
+      "price": 149.99,
+      "oldPrice": 199.99,
+      "image": "https://i.pinimg.com/control2/736x/d8/33/12/d83312da903b7aed0bcde72486e1b63f.jpg",
+      "color": "green",
+      "rating": 4.0
+    },
+    {
+      "id": 3,
+      "name": "Versace Eros Pour Homme EDT",
+      "category": "fragrance",
+      "description": "Clean and refreshing with marine and oceanic notes.",
+      "price": 199.99,
+      "image": "https://i.pinimg.com/736x/89/b1/bb/89b1bbfa11d0b57c210694f6c6093841.jpg",
+      "color": "blue",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Brown Full Grain Leather",
+      "category": "footwear",
+      "description": "Sleek and versatile, ideal for both formal and casual outfits.",
+      "price": 19.99,
+      "image": "https://i.pinimg.com/736x/94/48/4d/94484d1a4f6eab50f66e7c2670c90d4e.jpg",
+      "color": "brown",
+      "rating": 4.2
+    },
+    {
+      "id": 5,
+      "name": "Black Full Grain Leather",
+      "category": "footwear",
+      "description": "Luxurious silk scarf with vibrant colors.",
+      "price": 29.99,
+      "oldPrice": 39.99,
+      "image": "https://i.pinimg.com/control2/736x/65/41/1d/65411d65f4e145f9c6471822d7f63bdc.jpg",
+      "color": "black",
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "name": "Black Wallet Leather Tom Ford",
+      "category": "accessories",
+      "description": "Chic cocktail dress for parties and events.",
+      "price": 89.99,
+      "image": "https://i.pinimg.com/control2/736x/c7/7f/77/c77f77da190fcd80ea410781f0e86586.jpg",
+      "color": "black",
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Trouser Suit Grey Dark",
+      "category": "dress",
+      "description": "Versatile and stylish, perfect for casual or smart-casual looks.",
+      "price": 299.99,
+      "oldPrice": 349.99,
+      "image": "https://i.pinimg.com/control2/736x/66/3b/f0/663bf0cdf750c241836dc44eab738d9a.jpg",
+      "color": "silver",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "name": "Blue Dark Polo Shirt",
+      "category": "dress",
+      "description": "Stylish and vibrant with bold stripe patterns for added flair.",
+      "price": 39.99,
+      "image": "https://i.pinimg.com/control2/736x/e1/84/9c/e1849c1ef7fdabaa8546e3d690b2de58.jpg",
+      "color": "blue",
+      "rating": 3
+    },
+    {
+      "id": 9,
+      "name": "Versace Eros Flame EDP",
+      "category": "fragrance",
+      "description": "Bold and exotic with hints of cinnamon, vanilla, and amber.",
+      "price": 60.99,
+      "image": "https://i.pinimg.com/736x/d4/fe/63/d4fe6349038f32c75c38f184cbe12990.jpg",
+      "color": "red",
+      "rating": 5
+    },
+    {
+      "id": 10,
+      "name": "Dior Sauvage Elixir EDP",
+      "category": "fragrance",
+      "description": "Warm and earthy tones of sandalwood and cedar for a timeless appeal.",
+      "price": 45.99,
+      "image": "https://i.pinimg.com/736x/b6/12/cc/b612cc4ec286bb6665234cf9271e0b48.jpg",
+      "color": "black",
+      "rating": 3.5
+    },
+    {
+      "id": 11,
+      "name": "Necklace ZARA Chain",
+      "category": "accessories",
+      "description": "Clean and refreshing with marine and oceanic notes.",
+      "price": 199.99,
+      "image": "https://i.pinimg.com/control2/736x/4d/23/dc/4d23dcf024fb204fb90c6ecae45e58ae.jpg",
+      "color": "silver",
+      "rating": 4
+    }
+  ]
