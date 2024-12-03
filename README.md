@@ -55,5 +55,9 @@ npm install
 - 💰 Support for additional payment methods
 - 💡 Wishlist functionality
 
+## Project Overview
+
+https://github.com/user-attachments/assets/3ad94324-e7c8-427e-83ac-a96a5ed4287e
+
 ## 👨‍💻 Developed by:
 ## Muhammad Revansyah 🛠️
