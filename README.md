@@ -2,7 +2,7 @@
 # 🚀 Full-stack E-Commerce Website (MERN) #
 ###########################################
 
-# 📜 Description:
+## 📜 Description:
 # A full-featured e-commerce platform offering:
 # ✅ Secure authentication
 # ✅ Payment integration via Stripe
